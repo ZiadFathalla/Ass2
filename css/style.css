@@ -1,0 +1,165 @@
+.bg-dark{
+    background-color:rgb(0,0,0,0.6) !important;
+}
+.container-fluid{
+    width: 90%;
+}
+.navbar-brand{
+    color: white;
+}
+a:hover{
+    color: white !important;
+}
+.nav-link{
+    color: white;
+    height: 55px;
+    display: block;
+    padding: 0.8rem 1rem;
+}
+.active{
+    background-color: black;
+    
+}
+.navbar-collapse{
+    height: 10px;
+}
+
+
+    
+/*Cover Styleing*/
+.cover{
+    background-image: url("../img/cover\ 1.jpg");
+    min-height: 500px;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover; 
+}
+
+.cover h1 {
+    color: #000;
+    font-size: 60px;
+    margin-top: 90px; }
+  
+  .cover p {
+    margin-bottom: 30px;
+    color: #000;
+    font-size: 22px; }
+  
+  .cover button {
+    width: 300px;
+    height: 60px;
+    font-size: 17px; 
+}
+
+/*Body Styleing*/
+
+.body{
+    background-color: #000;
+    color: #fff;
+    min-height: 350px;
+
+}
+.body article{
+    margin-top: 50px;
+    text-align: justify;
+    font-size: 20px;
+}
+.body  h6{
+    margin-top: 40px;
+    text-align: right;
+    
+}
+
+/*Posts Styleing*/
+
+.posts{
+    margin-top: 60px;
+    min-height: 400px;
+}
+.posts h2{
+    margin-bottom: 70px;
+    text-align: center;
+}
+.posts .te-h {
+    text-align: justify;
+}
+.posts .te-p {
+    text-align: justify;
+}
+
+
+/* Team Styling*/
+.team{
+    background-image: url("../img/cover\ 1.jpg");
+    min-height: 550px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    position: relative; 
+    color: white;
+    
+}
+.team .team-cover{
+    padding-top: 50px;
+    background:rgb(0,0,0,0.8);
+    min-height: 550px;
+     
+}
+.team h1{
+    padding-top: 140;
+    margin-bottom: 40px;
+    color: #fff;
+   
+}
+
+
+.team p{
+    color: white;
+    text-align: center;
+}
+.team a{
+  color: #666666; 
+}
+.team a :hover{
+    color: #fff; 
+  }
+
+  
+  .Subscribe {
+    padding-top: 40px;
+    padding-bottom: 70px;
+    background: #EEE; 
+    
+}
+ 
+  .Subscribe h2 {
+    color: #000;
+    margin-bottom: 15px; }
+  
+  .Subscribe p {
+    margin-bottom: 30px; }
+  
+  .Subscribe .form-inline {
+    display: block;
+    }
+.Subscribe .form-control {
+    margin-right: -5px;
+    border-radius: 0; 
+    }
+  
+  .Subscribe button {
+    border-radius: 0;
+   }
+
+  
+
+
+
+
+
+
